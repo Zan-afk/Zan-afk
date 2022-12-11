@@ -28,6 +28,6 @@
 <br> <br> <br> <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zan-afk&show_icons=true&locale=en&layout=compact" alt="zan-afk" /></p> <br> <br> <br> <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zan-afk&show_icons=true&locale=en" alt="zan-afk" /></p> <br> <br> <br> <br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zan-afk&show_icons=true&locale=en" alt="zan-afk" /></p> 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zan-afk&" alt="zan-afk" /></p>
